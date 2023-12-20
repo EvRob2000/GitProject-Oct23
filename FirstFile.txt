@@ -1,5 +1,5 @@
 Before Initializing Git
 
-------------------------
+--------------------------
 
 After adding files to git
